@@ -37,7 +37,7 @@ The Gradio interface makes it easy to interact with the model through a user-fri
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/churn-prediction.git
+    git clone https://github.com/tahabandaw/churn-prediction.git
     cd churn-prediction
     ```
 2. Install the required libraries:
