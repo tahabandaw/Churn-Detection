@@ -84,15 +84,5 @@ The application predicts whether a customer will **Churn** or **Not Churn**.
 - Add support for batch processing of multiple customers.
 - Enhance the model with additional feature engineering and hyperparameter tuning.
 - Expand the Gradio interface for better user experience.
-
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
---- 
-
-## Contributors
-- Your Name (your.email@example.com)
-
-Feel free to suggest changes or contribute to the repository!
